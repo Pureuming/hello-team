@@ -20,6 +20,6 @@
 
 ## Lee Hye Min
 사진 아무거나 했어요.
-<img src=eec5c49c94fe014613c6aef0ed580a0b_2274389120111844185>
+![이미지](https://github.com/user-attachments/assets/99a63c23-974e-4a08-a3ab-785b84e91909)
 
 
