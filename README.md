@@ -7,10 +7,11 @@
 
 
 
-Park Jong Wook
-==============
-![Image](https://github.com/user-attachments/assets/44a01b24-aa6a-440f-ab1d-b1b2fec01828)
-
+## Park Jong Wook
+![Image](https://github.com/user-attachments/assets/44a01b24-aa6a-440f-ab1d-b1b2fec01828)<br/>
+닉네임: 7-raconteur<br/>
+목표: 미연시 게임 개발<br/>
+한마디: 아자 아자 화이팅!<br/>
 
 
 ## Yoo SeungJong
