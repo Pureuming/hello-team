@@ -16,7 +16,7 @@
 
 ## Yoo SeungJong
 <img src=https://github.com/user-attachments/assets/c16ef929-bd89-4ded-94f4-8f338f6b8e2f width="500">
-
+안녕하세요 게임 개발 화이팅 합시다!!
 
 
 
