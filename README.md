@@ -18,7 +18,8 @@ MBTI : ESFJ
 
 
 ## Yoo SeungJong
-<img src=https://github.com/user-attachments/assets/c16ef929-bd89-4ded-94f4-8f338f6b8e2f width="500">
+<img src=https://github.com/user-attachments/assets/c16ef929-bd89-4ded-94f4-8f338f6b8e2f width="500"><br/>
+좋아하는 게임 : 로아, 젤다 시리즈
 안녕하세요 게임 개발 화이팅 합시다!!
 
 ## Lee Hye Min
